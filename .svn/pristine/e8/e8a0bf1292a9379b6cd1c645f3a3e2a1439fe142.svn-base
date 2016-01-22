@@ -1,0 +1,61 @@
+<?php
+
+/* 
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+$lang = array(
+    'page_where' => "位置：",
+    'page_where_start' => "首页",
+    'page_where_middle' => "前台用户管理",
+    'page_where_list' => "前台用户列表",
+    'page_where_add' => "添加前台用户",
+    'page_where_edit' => "修改前台用户",
+    'page_where_detial'=> "用户信息详情",
+    'page_title' => "前台用户标题",
+    'error_unknow' => "未知错误",
+    'error_requer' => "信息没有填写完整",
+    'error_params' => "参数错误",
+    'error_unique' => "该数据已经存在",
+    'error_init' => "初始化数据未找到",
+    'delete_notice' => "你确定要删除此条信息吗？",
+    'add_sucess' => "添加成功",
+    'edit_sucess' => "修改成功",
+    'search'=>"搜索",
+    'all'=>"全部",
+    'todo'=>"操作",
+    'add' => "添加",
+    'del' => "删除",
+    'edit' => "修改",
+    'detial' => "详情",
+    'id' => "ID",
+    'account'=> "用户昵称",
+    'username'=> "用户姓名",
+    'user_type'=> "用户类别",
+    'avatar'=> "用户头像",
+    'email'=> "电子邮箱",
+    'telphone'=> "手机号码",
+    'gender'=> "性别",
+    'birthday'=> "生日",
+    'job'=> "从事行业",
+    'qqnumber'=> "QQ号码",
+    'idnumber'=> "身份证",
+    'province_id'=> "省份ID",
+    'city_id'=> "城市ID",
+    'area_id'=> "区域ID",
+    'province'=> "省份名称",
+    'city'=> "城市名称",
+    'area'=> "区域名称",
+    'address'=> "用户地址",
+    'discription'=> "自我描述",
+    'usable_money'=> "可用余额",
+    'freeze_money'=> "冻结金额",
+    'real_name'=> "实名认证",
+    'real_phone'=> "手机认证",
+    'real_email'=> "邮箱认证",
+    'real_invest'=> "投资人认证",
+    'real_count'=> "总认证数",
+    'addtime'=> "加入时间"
+);
+?>

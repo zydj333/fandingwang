@@ -1,0 +1,6 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2015-07-09 11:33:11 --> Severity: Notice  --> curl_setopt(): CURLOPT_SSL_VERIFYHOST with value 1 is deprecated and will be removed as of libcurl 7.28.1. It is recommended to use value 2 instead /fandingdata/www/aizhongchou/app/third_party/sinaApi.php 357
+ERROR - 2015-07-09 11:33:12 --> Severity: Notice  --> curl_setopt(): CURLOPT_SSL_VERIFYHOST with value 1 is deprecated and will be removed as of libcurl 7.28.1. It is recommended to use value 2 instead /fandingdata/www/aizhongchou/app/third_party/sinaApi.php 357
+ERROR - 2015-07-09 11:33:12 --> Severity: Notice  --> curl_setopt(): CURLOPT_SSL_VERIFYHOST with value 1 is deprecated and will be removed as of libcurl 7.28.1. It is recommended to use value 2 instead /fandingdata/www/aizhongchou/app/third_party/sinaApi.php 357
+ERROR - 2015-07-09 11:33:12 --> Severity: Notice  --> Undefined index: discription /fandingdata/www/aizhongchou/app/controllers/sina.php 124

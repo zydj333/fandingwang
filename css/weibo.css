@@ -1,0 +1,9 @@
+.LRform .sns a{background-image:url(/images/ico.png); background-repeat:no-repeat}
+.LRform{width:100%; margin:1px auto; padding:20px; background-color:#f7f7f7; border-radius:10px}
+.LRform .sns{text-align:center; border-bottom:#ccc dashed 1px; height:100px; margin-top:10px}
+.LRform .sns a{display:inline-block; width:60px; height:67px; margin:0 5px}
+.LRform .sns a:hover{opacity:0.8; filter:progid:DXImageTransform.Microsoft.Alpha(opacity=80)}
+.LRform .sns .douban{background-position:0 -325px}
+.LRform .sns .weibo{background-position:-112px -325px}
+.LRform .sns .qq{background-position:-223px -325px}
+.LRform .sns .note{margin:15px auto auto; width:165px; background-color:#f7f7f7}

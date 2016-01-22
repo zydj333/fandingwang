@@ -1,0 +1,1 @@
+select id from ai_phonecode where phonenumber=13456831303 and phonecode=480017 and status=1 and passtime<1428393331

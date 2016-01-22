@@ -1,0 +1,4 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2015-10-27 09:00:46 --> 404 Page Not Found --> login/phonelogin
+ERROR - 2015-10-27 16:44:43 --> Query error: Erreur de syntaxe près de 'and (status=1 or status=0) and passtime>1445935483' à la ligne 1

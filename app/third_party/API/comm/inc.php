@@ -1,0 +1,2 @@
+<?php die('forbidden'); ?>
+{"appid":"101220531","appkey":"52ba15655786e5e66459f0522e51e8f8","callback":"http://www.fandingwang.com/tencent/index","scope":"<?=$val?>","errorReport":true,"storageType":"file","host":"localhost","user":"root","password":"root","database":"test"}

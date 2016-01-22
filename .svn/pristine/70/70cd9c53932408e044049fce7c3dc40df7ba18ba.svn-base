@@ -1,0 +1,23 @@
+server {
+       listen      80;
+       server_name   www.fandingwang.com fangdingwang.com;
+       root  /fandingdata/www/aizhongchou;
+       location / {
+           index index.php index.html index.htm;
+        if (!-e $request_filename)
+        {
+         rewrite ^/(.*)$ /index.php?/$1 last;
+         break;
+
+        }
+       rewrite ^/(?!index\.php|robots\.txt|images|js|css|editor|swf|fonts|upload|kindeditor)(.*)$ /index.php/$1last;
+       }
+       location ~ .*\.(php|php5)?$
+	{
+		fastcgi_pass  127.0.0.1:9000;
+		fastcgi_index index.php;
+		include fastcgi.conf;
+	}
+	access_log  /alidata/log/nginx/access/fandingwang.log;
+
+}

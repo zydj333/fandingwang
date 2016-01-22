@@ -1,0 +1,23 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2015-11-03 14:42:37 --> Severity: Notice  --> Undefined index: phoneCode E:\workstation\wamp\www\fandingwang\app\controllers\mobile.php 297
+ERROR - 2015-11-03 14:42:39 --> Severity: Notice  --> Undefined index: phoneCode E:\workstation\wamp\www\fandingwang\app\controllers\mobile.php 297
+ERROR - 2015-11-03 14:42:40 --> Severity: Notice  --> Undefined index: phoneCode E:\workstation\wamp\www\fandingwang\app\controllers\mobile.php 297
+ERROR - 2015-11-03 14:42:46 --> Severity: Notice  --> Undefined index: phoneCode E:\workstation\wamp\www\fandingwang\app\controllers\mobile.php 297
+ERROR - 2015-11-03 14:43:34 --> Severity: Notice  --> Undefined index: phoneCode E:\workstation\wamp\www\fandingwang\app\controllers\mobile.php 297
+ERROR - 2015-11-03 08:43:28 --> 404 Page Not Found --> comm_model
+ERROR - 2015-11-03 08:43:32 --> 404 Page Not Found --> comm_model
+ERROR - 2015-11-03 16:18:22 --> Severity: Notice  --> Undefined index: phoneCode E:\workstation\wamp\www\fandingwang\app\controllers\mobile.php 297
+ERROR - 2015-11-03 16:18:24 --> Severity: Notice  --> Undefined index: phoneCode E:\workstation\wamp\www\fandingwang\app\controllers\mobile.php 297
+ERROR - 2015-11-03 16:18:33 --> Severity: Notice  --> Undefined index: phoneCode E:\workstation\wamp\www\fandingwang\app\controllers\mobile.php 297
+ERROR - 2015-11-03 16:20:13 --> Severity: Notice  --> Undefined variable: varifycode E:\workstation\wamp\www\fandingwang\app\controllers\mobile.php 362
+ERROR - 2015-11-03 16:20:14 --> Severity: Notice  --> Undefined variable: varifycode E:\workstation\wamp\www\fandingwang\app\controllers\mobile.php 362
+ERROR - 2015-11-03 16:20:16 --> Severity: Notice  --> Undefined variable: varifycode E:\workstation\wamp\www\fandingwang\app\controllers\mobile.php 362
+ERROR - 2015-11-03 16:22:43 --> Severity: Notice  --> Undefined index: phoneCode E:\workstation\wamp\www\fandingwang\app\controllers\mobile.php 216
+ERROR - 2015-11-03 16:22:43 --> Severity: Notice  --> Undefined index: email E:\workstation\wamp\www\fandingwang\app\controllers\mobile.php 232
+ERROR - 2015-11-03 16:24:35 --> Severity: Notice  --> Undefined index: phoneCode E:\workstation\wamp\www\fandingwang\app\controllers\mobile.php 168
+ERROR - 2015-11-03 16:24:35 --> Severity: Notice  --> Undefined index: telphone E:\workstation\wamp\www\fandingwang\app\controllers\mobile.php 172
+ERROR - 2015-11-03 16:24:36 --> Severity: Notice  --> Undefined index: telphone E:\workstation\wamp\www\fandingwang\app\controllers\mobile.php 185
+ERROR - 2015-11-03 16:43:10 --> Severity: 8192  --> preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead E:\workstation\wamp\www\fandingwang\app\views\frontend\mobile\projectDetial.php 13
+ERROR - 2015-11-03 16:43:25 --> Severity: 8192  --> preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead E:\workstation\wamp\www\fandingwang\app\views\frontend\mobile\projectDetial.php 13
+ERROR - 2015-11-03 16:43:31 --> Severity: 8192  --> preg_replace(): The /e modifier is deprecated, use preg_replace_callback instead E:\workstation\wamp\www\fandingwang\app\views\frontend\mobile\projectDetial.php 13
